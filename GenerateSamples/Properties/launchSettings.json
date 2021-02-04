@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenerateSamples": {
+      "commandName": "Project",
+      "commandLineArgs": "samples.bin 18000 1000  "
+    }
+  }
+}

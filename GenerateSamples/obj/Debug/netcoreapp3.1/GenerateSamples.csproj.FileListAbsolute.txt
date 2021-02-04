@@ -1,0 +1,13 @@
+C:\src\GenerateSamples\bin\Debug\netcoreapp3.1\GenerateSamples.exe
+C:\src\GenerateSamples\bin\Debug\netcoreapp3.1\GenerateSamples.deps.json
+C:\src\GenerateSamples\bin\Debug\netcoreapp3.1\GenerateSamples.runtimeconfig.json
+C:\src\GenerateSamples\bin\Debug\netcoreapp3.1\GenerateSamples.runtimeconfig.dev.json
+C:\src\GenerateSamples\bin\Debug\netcoreapp3.1\GenerateSamples.dll
+C:\src\GenerateSamples\bin\Debug\netcoreapp3.1\GenerateSamples.pdb
+C:\src\GenerateSamples\obj\Debug\netcoreapp3.1\GenerateSamples.csprojAssemblyReference.cache
+C:\src\GenerateSamples\obj\Debug\netcoreapp3.1\GenerateSamples.AssemblyInfoInputs.cache
+C:\src\GenerateSamples\obj\Debug\netcoreapp3.1\GenerateSamples.AssemblyInfo.cs
+C:\src\GenerateSamples\obj\Debug\netcoreapp3.1\GenerateSamples.csproj.CoreCompileInputs.cache
+C:\src\GenerateSamples\obj\Debug\netcoreapp3.1\GenerateSamples.dll
+C:\src\GenerateSamples\obj\Debug\netcoreapp3.1\GenerateSamples.pdb
+C:\src\GenerateSamples\obj\Debug\netcoreapp3.1\GenerateSamples.genruntimeconfig.cache

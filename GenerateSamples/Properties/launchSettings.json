@@ -2,7 +2,7 @@
   "profiles": {
     "GenerateSamples": {
       "commandName": "Project",
-      "commandLineArgs": "samples.bin 18000 1000  "
+      "commandLineArgs": "samplesum18020.txt 18000 100  16  44100"
     }
   }
 }

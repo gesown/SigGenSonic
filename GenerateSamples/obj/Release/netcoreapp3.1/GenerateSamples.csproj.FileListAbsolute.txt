@@ -11,3 +11,6 @@ C:\src\GenerateSamples\obj\Release\netcoreapp3.1\GenerateSamples.csproj.CoreComp
 C:\src\GenerateSamples\obj\Release\netcoreapp3.1\GenerateSamples.dll
 C:\src\GenerateSamples\obj\Release\netcoreapp3.1\GenerateSamples.pdb
 C:\src\GenerateSamples\obj\Release\netcoreapp3.1\GenerateSamples.genruntimeconfig.cache
+C:\src\GenerateSamples\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\src\GenerateSamples\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\src\GenerateSamples\obj\Release\netcoreapp3.1\GenerateSamples.csproj.CopyComplete

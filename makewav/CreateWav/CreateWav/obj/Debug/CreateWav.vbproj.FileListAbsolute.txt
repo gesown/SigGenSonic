@@ -1,0 +1,11 @@
+C:\src\makewav\CreateWav\CreateWav\obj\Debug\CreateWav.vbprojAssemblyReference.cache
+C:\src\makewav\CreateWav\CreateWav\obj\Debug\CreateWav.Resources.resources
+C:\src\makewav\CreateWav\CreateWav\obj\Debug\CreateWav.vbproj.GenerateResource.cache
+C:\src\makewav\CreateWav\CreateWav\obj\Debug\CreateWav.vbproj.CoreCompileInputs.cache
+C:\src\makewav\CreateWav\CreateWav\bin\Debug\CreateWav.exe.config
+C:\src\makewav\CreateWav\CreateWav\bin\Debug\CreateWav.exe
+C:\src\makewav\CreateWav\CreateWav\bin\Debug\CreateWav.pdb
+C:\src\makewav\CreateWav\CreateWav\bin\Debug\CreateWav.xml
+C:\src\makewav\CreateWav\CreateWav\obj\Debug\CreateWav.exe
+C:\src\makewav\CreateWav\CreateWav\obj\Debug\CreateWav.xml
+C:\src\makewav\CreateWav\CreateWav\obj\Debug\CreateWav.pdb

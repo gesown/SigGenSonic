@@ -1,0 +1,14 @@
+*.dll
+*.pdb
+*.mdb
+*.xml
+*.local.json
+*.zip
+*.png
+*.dylib
+*.so
+*.bundle
+*.md5
+
+# ignoring this for now
+*.meta

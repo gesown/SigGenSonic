@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dTakkSlMEbGlh9dy9BmYOUEVTldYi4yeIuR7p7tya/bdgwfL7ePk/yIllw/VPZncZIq3dJq6J8o0dr1tO8fTKg==",
+  "dgSpecHash": "ZdrI8/1S7P1BZ5yS2+RwnmbuwV1zsDk67cDPx3OH62ppmMaKqTEfdBXd2Z8OxR/VpF6pgaJosuN4ePLoIK7Egg==",
   "success": true,
   "projectFilePath": "C:\\src\\GenerateSamples\\GenerateSamples.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\marty\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

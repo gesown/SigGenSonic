@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d35b9115-a94e-4a77-9205-179f5d6c329e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/Entity/SampleRecorder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/Entity/SampleRecorder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/Facade/GSFacade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/Facade/GSFacade.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/GenerateSamples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/GenerateSamples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/Model/GSRunConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/Model/GSRunConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/Model/IGSRunConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/Model/IGSRunConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Debug/netcoreapp3.1/GenerateSamples.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/bin/Release/netcoreapp3.1/GenerateSamples.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/GenerateSamples.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/GenerateSamples.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/GenerateSamples.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/GenerateSamples.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/GenerateSamples.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/GenerateSamples.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/Release/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateSamples/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateSamples/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoundEditorBase" beforeDir="false" afterPath="$PROJECT_DIR$/../SoundEditorBase" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pLonOTW67wWf81v0ttd6CkJo5n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35b9115-a94e-4a77-9205-179f5d6c329e" name="Default Changelist" comment="" />
+      <created>1614971897570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614971897570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614972016815">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="414" y="-906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/0.-1080.1920.1040/-1080.-806.1080.1880/1920.35.1280.680@0.-1080.1920.1040" timestamp="1614972016815" />
+    <state x="740" y="-819" key="FileChooserDialogImpl" timestamp="1614972266499">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="740" y="-819" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040/-1080.-806.1080.1880/1920.35.1280.680@0.-1080.1920.1040" timestamp="1614972266499" />
+    <state x="461" y="-916" key="SettingsEditor" timestamp="1615230951746">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="461" y="-916" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040/-1080.-806.1080.1880/1920.35.1280.680@0.-1080.1920.1040" timestamp="1615230951746" />
+  </component>
+</project>
